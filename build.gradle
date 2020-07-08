@@ -5,7 +5,7 @@ allprojects {
   group = 'edu.mines.jtk'
   version = '1.0.0'
 }
-
+// tested code and edit
 // for subprojects only
 subprojects {
   repositories {
